@@ -5,9 +5,9 @@ public class zad1 {
         System.out.println("programowania");
         System.out.println("i");
         System.out.println("commitowania");
-        System.out.print("no i...");//komentarz
-//        System.out.print("czgoś ");
-//        System.out.println("jeszcze ;-)");
-//        System.out.print(2018);
+        System.out.print("no i...");
+        System.out.print("czgoś ");
+        System.out.println("jeszcze ;-)");
+//        System.out.print("Wrocław 2018);
     }
 }
